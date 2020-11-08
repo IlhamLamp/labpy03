@@ -22,7 +22,7 @@
 
   - Simpan dengan nama `latihan1.py`, kemudian jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-![gambar4](gambar/2-3_output.PNG)
+  ![gambar4](gambar/2-3_output.PNG)
 
 ### Penjelasan
   - Pada baris pertama program `latihan1.py`, tertulis _`import random`_ yang berarti kita meng-impor modul/ _library_ bawaan dari python bernama **random**. Modul ini berisi bilangan acak, dengan bentuk **float**.
@@ -58,7 +58,7 @@
 
   - Simpan dengan nama `latihan2.py`, kemudian jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-![gambar7](gambar/3-3_output.PNG)
+  ![gambar7](gambar/3-3_output.PNG)
 
 ### Penjelasan
   - Baris ke-1, mendeklarasikan variabel `max` yang nilainya **0**.
@@ -100,7 +100,7 @@
 ![gambar9](gambar/4-2_kode.PNG)
   - Simpan dengan nama `program1.py`, kemudian jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-![gambar10](gambar/4-3_kode.PNG)
+  ![gambar10](gambar/4-3_output.PNG)
 
 ### Penjelasan
 
