@@ -2,10 +2,10 @@
 
 ## SOAL
 
-![gambar1](gambar/1_soal)
+![gambar1](gambar/1_soal.PNG)
 
 ### LATIHAN1
-![gambar2](gambar/2-1_soal)
+![gambar2](gambar/2-1_soal.PNG)
   - Buka text editor, kemudian salin kode berikut
 
         import random
@@ -18,11 +18,11 @@
                     break
             print("Data ke:",i,"=>",n)
 
-![gambar3](gambar/2-2_kode)
+![gambar3](gambar/2-2_kode.PNG)
 
   - Simpan dengan nama `latihan1.py`, kemudian jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-![gambar4](gambar/2-3_output)
+![gambar4](gambar/2-3_output.PNG)
 
 ### Penjelasan
   - Pada baris pertama program `latihan1.py`, tertulis _`import random`_ yang berarti kita meng-impor modul/ _library_ bawaan dari python bernama **random**. Modul ini berisi bilangan acak, dengan bentuk **float**.
@@ -39,7 +39,7 @@
 
 ### LATIHAN2
 
-![gambar5](gambar/3-1_soal)
+![gambar5](gambar/3-1_soal.PNG)
 
 - Buka text editor, kemudian salin kode berikut
 
@@ -54,11 +54,11 @@
 
       print("Bilangan terbesar adalah: ",max)
 
-![gambar6](gambar/3-2_kode)
+![gambar6](gambar/3-2_kode.PNG)
 
   - Simpan dengan nama `latihan2.py`, kemudian jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-![gambar7](gambar/3-3_output)
+![gambar7](gambar/3-3_output.PNG)
 
 ### Penjelasan
   - Baris ke-1, mendeklarasikan variabel `max` yang nilainya **0**.
@@ -75,7 +75,7 @@
 
 ### PROGRAM1
 
-![gambar8](gambar/4-1_soal)
+![gambar8](gambar/4-1_soal.PNG)
 
   - Buka text editor, kemudian salin kode berikut
 
@@ -97,10 +97,10 @@
         total = a + a + b + b + c + c + c + d
         print("total laba adalah :", total)
 
-![gambar9](gambar/4-2_kode)
+![gambar9](gambar/4-2_kode.PNG)
   - Simpan dengan nama `program1.py`, kemudian jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-![gambar10](gambar/4-3_kode)
+![gambar10](gambar/4-3_kode.PNG)
 
 ### Penjelasan
 
